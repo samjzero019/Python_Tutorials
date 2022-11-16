@@ -1,0 +1,90 @@
+INFO:root:Sum of 5 and 10 is: 15
+INFO:root:Subtract of 5 and 10 is: -5
+INFO:root:Sum of 5 and 10 is: 50
+INFO:root:
+
+INFO:root:Sum of 5 and 10 is: 15
+INFO:root:Subtract of 5 and 10 is: -5
+INFO:root:Sum of 5 and 10 is: 50
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+
+INFO:root:Sum of 50 and 30 is: 80
+INFO:root:Subtract of 50 and 30 is: 20
+INFO:root:Sum of 50 and 30 is: 1500
+INFO:root:
+

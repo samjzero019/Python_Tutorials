@@ -1,0 +1,4 @@
+I am writing this string in the fome of comment as 
+                    this is easy mutiline format to  
+                    write to file  edited    
+                        

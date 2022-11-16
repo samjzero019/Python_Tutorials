@@ -1,0 +1,2 @@
+I am writing this string in the form of comment as 
+                    this is easy mutiline format  this line was added through seek function which moves seek pointer in background
